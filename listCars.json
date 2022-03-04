@@ -1,0 +1,52 @@
+{
+  "cars":[
+    {
+      "id":1,
+      "marque":"Peugeot",
+      "model":"5008",
+      "carburant":"Diesel",
+      "vitesse":"Automatique",
+      "annee":"2018",
+      "URL":"peugeot/Peugeot_5008_D_A_2018.jpg"
+    },
+    {
+      "id":2,
+      "marque":"Peugeot",
+      "model":"3008",
+      "carburant":"Diesel",
+      "vitesse":"Automatique",
+      "annee":"2020",
+      "URL":"peugeot/Peugeot_3008_D_A_2020.jpg"
+    },
+    {
+      "id":3,
+      "marque":"Peugeot",
+      "model":"2008",
+      "carburant":"Diesel",
+      "vitesse":"Manuel",
+      "annee":"2019",
+      "URL":"peugeot/Peugeot_2008_D_M_2019.jpg"
+    },
+    {
+      "id":4,
+      "marque":"Renault",
+      "model":"Clio",
+      "carburant":"Essence SP",
+      "vitesse":"Manuel",
+      "annee":"2022",
+      "URL":"renault/Renault_clio_essenceSP_M_2022.jpg"
+    },
+    {
+      "id":5,
+      "marque":"Renault",
+      "model":"Arkana",
+      "carburant":"Hybride",
+      "vitesse":"Automatique",
+      "annee":"2022",
+      "URL":"renault/Renault_arkana_hybride_A_2022.jpg"
+    }
+  ],
+  "marques": ["Peugeot", "Renault"],
+  "vitesses": ["Automatique", "Manuel"],
+  "carburants": ["Essence SP", "Diesel", "Hybride"]
+}
